@@ -1,0 +1,3 @@
+# Events
+
+{{ events_content }}

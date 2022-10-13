@@ -1,0 +1,15 @@
+site_name: Blog Example
+site_url: https://rbeucher.github.io/mkdocs_events_plugin_example/
+repo_url: https://github.com/rbeucher/mkdocs_events_plugin_example/
+repo_name: rbeucher/mkdocs_events_plugin_example/
+edit_uri: ""
+
+theme:
+  name: 'material'
+
+plugins:
+  - events:
+      events_dir:
+        - events
+
+copyright: Copyright &copy; 2022 Romain Beucher
